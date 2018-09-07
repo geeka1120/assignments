@@ -1,0 +1,2 @@
+gcc -Wall -ansi -pedantic -Qunused-arguments   -c -o hello.o hello.c
+gcc -Wall -ansi -pedantic -Qunused-arguments -o hello hello.o
